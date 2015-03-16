@@ -2,7 +2,7 @@
 	"name": "packer",
 	"description": "Simple port of /packer/ by Dean Edwards",
 	"version": "0.0.5",
-	"repository": "https://github.com/evanw/packer",
+	"repository": "https://github.com/slavab89/packer",
 	"author": "Evan Wallace",
 	"main": "packer",
 	"dependencies": {
